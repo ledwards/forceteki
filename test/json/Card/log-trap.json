@@ -1,0 +1,36 @@
+{
+  "title": "Log Trap",
+  "subtitle": "",
+  "cost": 2,
+  "hp": null,
+  "power": null,
+  "text": "Attack with a friendly unit. Then attack with it again, even if it's exhausted. It can't attack bases for the second attack.",
+  "deployBox": null,
+  "epicAction": "",
+  "unique": false,
+  "rules": null,
+  "upgradePower": null,
+  "upgradeHp": null,
+  "id": "4239493544",
+  "aspects": [
+    "command"
+  ],
+  "traits": [
+    "trick"
+  ],
+  "keywords": [],
+  "types": [
+    "event"
+  ],
+  "setId": {
+    "set": "HMW",
+    "number": 149
+  },
+  "setCodes": [
+    {
+      "set": "HMW",
+      "number": 149
+    }
+  ],
+  "internalName": "log-trap"
+}

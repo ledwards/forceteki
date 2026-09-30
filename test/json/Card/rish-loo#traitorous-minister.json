@@ -1,0 +1,42 @@
+{
+  "title": "Rish Loo",
+  "subtitle": "Traitorous Minister",
+  "cost": 4,
+  "hp": 2,
+  "power": 3,
+  "text": "Hidden\nWhen Played: Take control of an enemy non‑leader unit with a Weakness token on it. At the start of the next regroup phase, its owner takes control of it.",
+  "deployBox": null,
+  "epicAction": "",
+  "unique": true,
+  "rules": null,
+  "upgradePower": null,
+  "upgradeHp": null,
+  "id": "5272534084",
+  "aspects": [
+    "cunning",
+    "villainy"
+  ],
+  "traits": [
+    "separatist",
+    "gungan",
+    "official"
+  ],
+  "arena": "ground",
+  "keywords": [
+    "hidden"
+  ],
+  "types": [
+    "unit"
+  ],
+  "setId": {
+    "set": "HMW",
+    "number": 200
+  },
+  "setCodes": [
+    {
+      "set": "HMW",
+      "number": 200
+    }
+  ],
+  "internalName": "rish-loo#traitorous-minister"
+}

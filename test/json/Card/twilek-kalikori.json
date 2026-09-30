@@ -1,0 +1,36 @@
+{
+  "title": "Twi'lek Kalikori",
+  "subtitle": "",
+  "cost": 4,
+  "hp": 2,
+  "power": 2,
+  "text": "When Played: If attached unit is a Twi'lek, search the top 8 cards of your deck for any number of Twi'lek units with combined cost 5 or less and play each of them for free.",
+  "deployBox": null,
+  "epicAction": "",
+  "unique": false,
+  "rules": null,
+  "upgradePower": 2,
+  "upgradeHp": 2,
+  "id": "2824985366",
+  "aspects": [
+    "heroism"
+  ],
+  "traits": [
+    "item"
+  ],
+  "keywords": [],
+  "types": [
+    "upgrade"
+  ],
+  "setId": {
+    "set": "HMW",
+    "number": 265
+  },
+  "setCodes": [
+    {
+      "set": "HMW",
+      "number": 265
+    }
+  ],
+  "internalName": "twilek-kalikori"
+}

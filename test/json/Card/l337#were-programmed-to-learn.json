@@ -1,0 +1,39 @@
+{
+  "title": "L3-37",
+  "subtitle": "We're Programmed to Learn",
+  "cost": 6,
+  "hp": 7,
+  "power": 5,
+  "text": "When you play an event that costs 3 or less: You may play it again from your discard pile for free. Use this ability only once each phase.",
+  "deployBox": null,
+  "epicAction": "",
+  "unique": true,
+  "rules": null,
+  "upgradePower": null,
+  "upgradeHp": null,
+  "id": "2929437656",
+  "aspects": [
+    "cunning",
+    "heroism"
+  ],
+  "traits": [
+    "underworld",
+    "droid"
+  ],
+  "arena": "ground",
+  "keywords": [],
+  "types": [
+    "unit"
+  ],
+  "setId": {
+    "set": "HMW",
+    "number": 215
+  },
+  "setCodes": [
+    {
+      "set": "HMW",
+      "number": 215
+    }
+  ],
+  "internalName": "l337#were-programmed-to-learn"
+}

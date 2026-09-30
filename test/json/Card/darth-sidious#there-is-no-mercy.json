@@ -1,0 +1,41 @@
+{
+  "title": "Darth Sidious",
+  "subtitle": "There Is No Mercy",
+  "cost": 6,
+  "hp": 5,
+  "power": 4,
+  "text": "When you deal 4 or more damage to a unit or base: You may exhaust this leader. If you do, deal 1 damage to a different unit or base.",
+  "deployBox": "Hidden (This unit can't be attacked if he was deployed this phase.)\nWhen you deal 4 or more damage to a unit or base: You may deal 1 damage to a different unit or base.",
+  "epicAction": "Epic Action: If you control 6 or more resources, deploy this leader.",
+  "unique": true,
+  "rules": null,
+  "upgradePower": null,
+  "upgradeHp": null,
+  "id": "9117601313",
+  "aspects": [
+    "aggression",
+    "villainy"
+  ],
+  "traits": [
+    "force",
+    "sith"
+  ],
+  "arena": "ground",
+  "keywords": [
+    "hidden"
+  ],
+  "types": [
+    "leader"
+  ],
+  "setId": {
+    "set": "HMW",
+    "number": 11
+  },
+  "setCodes": [
+    {
+      "set": "HMW",
+      "number": 11
+    }
+  ],
+  "internalName": "darth-sidious#there-is-no-mercy"
+}

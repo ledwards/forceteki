@@ -1,0 +1,40 @@
+{
+  "title": "Garnac",
+  "subtitle": "Let the Hunt Begin!",
+  "cost": 1,
+  "hp": 1,
+  "power": 3,
+  "text": "While an opponent controls a <uq> unit, this unit gains Hidden.\nWhen Attack Ends: You may attack with another unit.",
+  "deployBox": null,
+  "epicAction": "",
+  "unique": true,
+  "rules": null,
+  "upgradePower": null,
+  "upgradeHp": null,
+  "id": "2004981626",
+  "aspects": [
+    "command",
+    "villainy"
+  ],
+  "traits": [
+    "underworld"
+  ],
+  "arena": "ground",
+  "keywords": [
+    "hidden"
+  ],
+  "types": [
+    "unit"
+  ],
+  "setId": {
+    "set": "HMW",
+    "number": 104
+  },
+  "setCodes": [
+    {
+      "set": "HMW",
+      "number": 104
+    }
+  ],
+  "internalName": "garnac#let-the-hunt-begin"
+}
